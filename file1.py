@@ -1,3 +1,0 @@
-print("Nati")
-
-print("Abebaw")
