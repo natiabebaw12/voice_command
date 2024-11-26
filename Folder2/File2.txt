@@ -1,1 +1,1 @@
-print("nati")
+print("nati abebaw")
